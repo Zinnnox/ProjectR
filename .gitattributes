@@ -1,1 +1,11 @@
+# Unreal Engine binary files
+*.uasset binary
+*.umap binary
+
+# Additional binary files (optional)
+*.png binary
+*.jpg binary
+*.wav binary
+*.mp3 binary
+*.fbx binary
 * !text !filter !merge !diff
