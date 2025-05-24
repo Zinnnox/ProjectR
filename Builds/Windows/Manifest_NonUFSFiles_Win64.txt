@@ -2,7 +2,7 @@ Engine/Binaries/Win64/EOSSDK-Win64-Shipping.dll	2024-11-05T01:22:23.489Z
 ProjectR/Binaries/Win64/D3D12/D3D12Core.dll	2024-11-05T01:22:20.135Z
 ProjectR/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2024-11-05T01:22:20.151Z
 ProjectR/Binaries/Win64/OpenImageDenoise.dll	2024-11-05T01:33:49.814Z
-ProjectR/Binaries/Win64/ProjectR-Win64-Shipping.exe	2025-05-21T16:40:59.631Z
+ProjectR/Binaries/Win64/ProjectR-Win64-Shipping.exe	2025-05-21T18:50:26.578Z
 ProjectR/Binaries/Win64/tbb.dll	2024-11-05T01:22:12.920Z
 ProjectR/Binaries/Win64/tbb12.dll	2024-11-05T01:33:48.151Z
 ProjectR/Binaries/Win64/tbbmalloc.dll	2024-11-05T01:22:12.923Z
@@ -16,4 +16,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2024-11-05T0
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-11-05T01:22:20.159Z
 Engine/Content/Renderer/TessellationTable.bin	2024-11-05T01:25:15.773Z
 Engine/Content/Slate/Cursor/invisible.cur	2024-11-05T01:25:15.807Z
-ProjectR.exe	2025-05-21T16:54:33.144Z
+ProjectR.exe	2025-05-21T18:52:02.431Z
