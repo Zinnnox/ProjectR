@@ -31,10 +31,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MultiUserClient",
-			"Enabled": true
-		},
-		{
 			"Name": "AlembicImporter",
 			"Enabled": false
 		},
@@ -143,6 +139,26 @@
 		},
 		{
 			"Name": "GooglePAD",
+			"Enabled": false
+		},
+		{
+			"Name": "NiagaraSimCaching",
+			"Enabled": false
+		},
+		{
+			"Name": "AudioCapture",
+			"Enabled": false
+		},
+		{
+			"Name": "Metasound",
+			"Enabled": false
+		},
+		{
+			"Name": "Synthesis",
+			"Enabled": false
+		},
+		{
+			"Name": "AutomationUtils",
 			"Enabled": false
 		}
 	]
